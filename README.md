@@ -41,7 +41,7 @@ Los estudiantes deberán:
 ```
 poke-ensambles/
 ├── data/
-│   ├── test_set.csv
+│   ├── testset.csv
 │   └── example_dataset.csv
 ├── notebooks/
 │   └── nb_template.ipynb
