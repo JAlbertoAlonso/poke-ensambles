@@ -25,13 +25,13 @@ Los estudiantes deberán:
 3. Crea un repositorio propio (público) para tu equipo y sube ahí tu trabajo final.
 4. En la carpeta `docs/` encontrarás el archivo oficial de la práctica:
    ```
-   Laboratorio7_Practica.pdf
+   Lab_ML_P7.pdf
    ```
 5. En la carpeta `notebooks/` está disponible la plantilla del cuaderno:
    ```
-   template_lab7.ipynb
+   nb_template.ipynb
    ```
-6. El conjunto de prueba (`test_set.csv`) se encuentra en la carpeta `data/`.  
+6. El conjunto de prueba (`testset.csv`) se encuentra en la carpeta `data/`.  
    Este archivo se usará para evaluar tu ensamble final.
 
 ---
