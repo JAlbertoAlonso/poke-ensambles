@@ -44,9 +44,9 @@ poke-ensambles/
 │   ├── test_set.csv
 │   └── example_dataset.csv
 ├── notebooks/
-│   └── template_lab7.ipynb
+│   └── nb_template.ipynb
 ├── docs/
-│   └── Laboratorio7_Practica.pdf
+│   └── Lab_ML_P7.pdf
 └── README.md
 ```
 
